@@ -1,325 +1,288 @@
-# 🐾 OpenPaw — AI Companion Robot For Pets
-
-[![OpenPaw Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=220&section=header&text=%F0%9F%90%BE%20OpenPaw&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%20Open-Source%20AI%20Companion%20Robot%20For%20Pets&descAlignY=60&descSize=16)](https://github.com/openpawrobot)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Companion+Robot+For+Pets;ESP32+%2B+Computer+Vision+%2B+AI;100%25+Open+Source+%7C+Built+In+Public;Making+Pet+Companionship+Smarter;Join+the+Journey+%E2%86%92+Star+%26+Fork" alt="OpenPaw Typing SVG" />
-</div>
-
-<br/>
+<!-- OpenPaw GitHub README -->
+<!-- Copy this to your README.md file -->
 
 <div align="center">
-  <a href="https://x.com/OpenPawOfficial" target="_blank"><img src="https://img.shields.io/badge/%F0%9D%95%8F-Follow_OpenPaw-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow"/></a>
-  <a href="https://reddit.com/user/OpenPawAI" target="_blank"><img src="https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://youtube.com/@openpaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://linktr.ee/openpawrobot" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97_Linktree-All_Links-39E09B?style=for-the-badge" alt="Linktree"/></a>
-  <a href="https://github.com/openpawrobot" target="_blank"><img src="https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=200&section=header&text=🐾%20OpenPaw&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=The%20Open-Source%20AI%20Companion%20Robot%20For%20Pets&descAlignY=62&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Companion+Robot+for+Pets;Building+in+Public+%7C+100%25+Open+Source;ESP32+%2B+Computer+Vision+%2B+AI;Making+Pet+Companionship+Smarter;Join+the+Journey+%E2%86%92+Star+%26+Fork" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/openpawrobot?style=social&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/openpawrobot?style=social&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/last-commit/openpawrobot/openpaw-firmware?style=social&logo=github" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/license/openpawrobot/openpaw-firmware?style=social&logo=github" alt="License"/>
+
+[![X](https://img.shields.io/badge/𝕏-Follow_OpenPawrobot-000000?style=for-the-badge)](https://x.com/OpenPawrobot)
+[![Reddit](https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/OpenPawAI)
+[![Linktree](https://img.shields.io/badge/🔗_Linktree-All_Links-39E09B?style=for-the-badge)](https://linktr.ee/openpawrobot)
+[![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github)](https://github.com/openpawrobot)
+
 </div>
 
-<hr/>
+---
+<!-- DEMO SECTION -->
 
-## 🚀 OpenPaw — Final Video Cut
-<div align="center">
-  <a href="https://youtu.be/kn2AgR_2DU8?si=tc3Vv8gAWHyQVW9I" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Watch_Full_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" alt="OpenPaw Robot"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" alt="Pet Playing"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> An AI-powered companion robot designed to keep pets engaged, monitored, and connected while their humans are away. Built open-source. Built in public.
+<h2 align="center">🚀 OpenPaw Final Video Cut</h2>
 
 <p align="center">
-  <b>🐾 Built in Public &nbsp;•&nbsp; 🤖 Robotics &nbsp;•&nbsp; 🧠 AI &nbsp;•&nbsp; ❤️ Pets</b>
+  <a href="https://www.reddit.com/u/OpenPawAI/s/4BdC17TnOp">
+    <img src="./assets/openpaw-demo.gif" width="900" alt="OpenPaw Demo">
+  </a>
 </p>
 
-<hr/>
+<p align="center">
+  An AI-powered companion robot designed to keep pets engaged, monitored, and connected while their humans are away.
+</p>
 
+<p align="center">
+  🎬 <a href="https://youtu.be/kn2AgR_2DU8?si=tc3Vv8gAWHyQVW9I"><b>Watch Full Demo</b></a>
+</p>
+
+<p align="center">
+  🐾 Built in Public • 🤖 Robotics • 🧠 AI • ❤️ Pets
+</p>
+
+---
+---
+
+<!-- WHY OPENPAW -->
 ## ❤️ Why OpenPaw Exists
+
 ```
-  Millions of pets spend hours alone every day.
-  Most pet cameras only allow owners to watch.
-  OpenPaw is different. 🐾
+Millions of pets spend hours alone every day.
+Most pet cameras only allow owners to watch.
+OpenPaw is different.
 ```
 
-| 👁️ What Traditional Pet Tech Does | 🤖 What OpenPaw Does |
+| What Most Pet Tech Does | What OpenPaw Does |
 |:---|:---|
 | 👁️ Passive camera feed | 🤖 Active AI interaction |
-| 💰 Expensive & proprietary | 🆓 Free & 100% Open Source |
-| 📵 Watch-only experience | 🎾 Play, engage & monitor |
+| 💰 Expensive proprietary | 🆓 Free & Open Source |
+| 📵 Watch only | 🎾 Play, engage & monitor |
 | 🔒 Closed ecosystem | 🌍 Community driven |
 | 🚫 No wellness data | ❤️ Health + behavior insights |
 
-<hr/>
+---
 
+<!-- BUILD STATUS -->
 ## 🚧 Current Development Status
+
 <div align="center">
+
 | Feature | Status | Phase |
 |:---|:---:|:---:|
-| 📷 Camera System (OV2640) | ✅ Complete | **Phase 1** |
-| 🔄 OTA Firmware Updates | ✅ Complete | **Phase 1** |
-| 📡 Distance Sensor (VL53L0X) | ✅ Complete | **Phase 1** |
-| 🔴 Laser Module | ✅ Complete | **Phase 1** |
-| 🏗️ Firmware Architecture | 🔄 Active | **Phase 1** |
-| 🎤 Microphone Integration (I2S) | 🟡 In Progress | **Phase 2** |
-| 🔊 Speaker System | 🟡 In Progress | **Phase 2** |
-| 🌡️ Temperature & Humidity Sensor | 🟡 In Progress | **Phase 2** |
-| ⚙️ Motor Control (Servo + DC) | 🟡 In Progress | **Phase 2** |
-| 🌐 Captive Portal WiFi Setup | ⏳ Planned | **Phase 2** |
-| 🗣️ Speech AI (LLM Integration) | ⏳ Planned | **Phase 3** |
-| 🧠 Behavior Analysis Engine | ⏳ Planned | **Phase 3** |
-| 📊 Wellness Intelligence Dashboard | ⏳ Planned | **Phase 3** |
-| 📱 Flutter Mobile Application | ⏳ Planned | **Phase 4** |
-| 🚀 Production Hardware (PCBs) | ⏳ Planned | **Phase 5** |
+| 📷 Camera System | ✅ Complete | Phase 1 |
+| 🔄 OTA Firmware Updates | ✅ Complete | Phase 1 |
+| 📡 Distance Sensor | ✅ Complete | Phase 1 |
+| 🔴 Laser Module | ✅ Complete | Phase 1 |
+| 🏗️ Firmware Architecture | 🔄 Active | Phase 1 |
+| 🎤 Microphone Integration | 🟡 In Progress | Phase 2 |
+| 🔊 Speaker System | 🟡 In Progress | Phase 2 |
+| 🌡️ Temperature Sensor | 🟡 In Progress | Phase 2 |
+| ⚙️ Motor Control | 🟡 In Progress | Phase 2 |
+| 🌐 Captive Portal | ⏳ Planned | Phase 2 |
+| 🗣️ Speech AI | ⏳ Planned | Phase 3 |
+| 🧠 Behavior Analysis | ⏳ Planned | Phase 3 |
+| 📊 Wellness Intelligence | ⏳ Planned | Phase 3 |
+| 📱 Flutter Mobile App | ⏳ Planned | Phase 4 |
+| 🚀 Production Hardware | ⏳ Planned | Phase 5 |
+
 </div>
 
-<hr/>
+---
 
 ## 🏗️ OpenPaw System Architecture
+
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│                      🐾 OPENPAW CORE                             │
-│            AI Companion Robot For Pets (ESP32)                  │
-└─────────────────────────────────────────────────────────────────┘
-                                  │
-                                  ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                    ⚡ CORE FIRMWARE LAYER                       │
-│  ESP32 • FreeRTOS • PlatformIO • Arduino Framework              │
-└─────────────────────────────────────────────────────────────────┘
-                                  │
-         ┌────────────────────────┼────────────────────────┐
-         ▼                        ▼                        ▼
-┌──────────────────┐   ┌──────────────────┐   ┌──────────────────┐
-│   📡 SENSORS     │   │    🧠 AI LAYER    │   │  🌐 SERVICES    │
-├──────────────────┤   ├──────────────────┤   ├──────────────────┤
-│ 📷 Camera OV2640 │   │ 👁️ Computer Vision│   │ 📡 OTA Updates  │
-│ 📏 VL53L0X Dist  │   │ 🐾 Behavior AI    │   │ ☁️ Firebase Cloud│
-│ 🌡️ Temp/Humidity │   │ ❤️ Wellness AI    │   │ 🔗 REST APIs    │
-│ 🎤 I2S Microphone│   │ 🗣️ Speech LLM     │   │ 🌍 Web Dashboard│
-│ 🔊 Speaker Out   │   │ 🤖 Decision Engine │   │ 📱 Mobile App   │
-│ ⚙️ Motor Control │   │ 📊 Data Insights   │   │ 🔐 Cloudflare   │
-└──────────────────┘   └──────────────────┘   └──────────────────┘
-         └────────────────────────┼────────────────────────┘
-                                  ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                  🎯 THE COMPANION EXPERIENCE                    │
-│                                                                   │
-│   🐾 Pet Engagement   •   ❤️ Wellness Monitoring                │
-│   📱 Remote Access     •   🤖 AI Interaction                    │
-│   🔴 Laser Play        •   🌡️ Environment Tracking              │
-└─────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────┐
+│                   🐾 OpenPaw                   │
+│          AI Companion Robot For Pets          │
+└───────────────────────────────────────────────┘
+                        │
+                        ▼
+
+┌───────────────────────────────────────────────┐
+│                ⚡ Core Firmware                │
+│                     ESP32                     │
+└───────────────────────────────────────────────┘
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+        ▼               ▼               ▼
+
+┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+│ 📡 Sensors  │ │ 🧠 AI Layer │ │ 🌐 Services │
+└─────────────┘ └─────────────┘ └─────────────┘
+
+│ 📷 Camera   │ │ 👁️ Vision   │ │ 📡 OTA      │
+│ 📏 Distance │ │ 🐾 Behavior │ │ ☁️ Cloud    │
+│ 🌡️ Temp     │ │ ❤️ Wellness │ │ 🔗 APIs     │
+│ 🎤 Mic      │ │ 🗣️ Speech   │ │ 🌍 Web      │
+│ 🔊 Speaker  │ │ 🤖 LLMs     │ │ 📱 Mobile   │
+│ ⚙️ Motors   │ └─────────────┘ └─────────────┘
+
+        └───────────────┬───────────────┘
+                        │
+                        ▼
+
+┌───────────────────────────────────────────────┐
+│            🎯 Companion Experience            │
+│                                               │
+│  🐾 Engagement  •  ❤️ Wellness Monitoring     │
+│  📱 Remote Access • 🤖 AI Interaction         │
+└───────────────────────────────────────────────┘
 ```
 
-<hr/>
 
+<!-- TECH STACK -->
 ## 💻 Technology Stack
+
 <div align="center">
-### 🔧 Firmware
+
+**Firmware**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-### 🧠 Backend & AI
+
+**Backend & AI**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-### 📱 Mobile & Frontend
+
+**Mobile & Frontend**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-### ⚙️ DevOps & Tools
+
+**DevOps & Tools**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-<hr/>
+---
 
+<!-- REPOS -->
 ## 📦 Repository Ecosystem
+
 | Repository | Purpose | Status |
 |:---|:---|:---:|
-| [🧠 **openpaw-firmware**](https://github.com/openpawrobot/openpaw-firmware) | ESP32 Firmware (C/C++ • FreeRTOS) | 🔄 Active |
-| [🔧 **openpaw-hardware**](https://github.com/openpawrobot/openpaw-hardware) | PCB, CAD & Mechanical Design | 🔄 Active |
-| [📱 **openpaw-app**](https://github.com/openpawrobot/openpaw-app) | Flutter Mobile Application | ⏳ Planned |
-| [🌐 **openpaw-website**](https://github.com/openpawrobot/openpaw-website) | Website & Waitlist | 🔄 Active |
-| [🤖 **openpaw-ml**](https://github.com/openpawrobot/openpaw-ml) | AI Models & Wellness Signals | ⏳ Planned |
-| [📚 **openpaw-docs**](https://github.com/openpawrobot/openpaw-docs) | Documentation & Architecture | 🔄 Active |
-| [📢 **openpaw-marketing**](https://github.com/openpawrobot/openpaw-marketing) | Build-In-Public Automation | 🔄 Active |
+| [🧠 openpaw-firmware](https://github.com/ayvalabs/openpaw-firmware) | ESP32 Firmware | 🔄 Active |
+| [🔧 openpaw-hardware](https://github.com/ayvalabs/openpaw-hardware) | PCB, CAD & Mechanical Design | 🔄 Active |
+| [📱 openpaw-app](https://github.com/ayvalabs/openpaw-app) | Flutter Mobile Application | ⏳ Planned |
+| [🌐 openpaw-website](https://github.com/ayvalabs/openpaw-website) | Website & Waitlist | 🔄 Active |
+| [🤖 openpaw-ml](https://github.com/ayvalabs/openpaw-ml) | AI Models & Wellness Signals | ⏳ Planned |
+| [📚 openpaw-docs](https://github.com/ayvalabs/openpaw-docs) | Documentation & Architecture | 🔄 Active |
+| [📢 openpaw-marketing](https://github.com/ayvalabs/openpaw-marketing) | Build-In-Public Automation | 🔄 Active |
 
-<hr/>
+---
 
+<!-- QUICK START -->
 ## 🚀 Quick Start
+
 ```bash
-# ═══════════════════════════════════════════════════════════════════
-# 1️⃣ Clone the firmware repository
-# ══════════════════════════════════════════════════════════════════
-git clone https://github.com/openpawrobot/openpaw-firmware
+# Clone the firmware repository
+git clone https://github.com/ayvalabs/openpaw-firmware
 cd openpaw-firmware
-# ══════════════════════════════════════════════════════════════════
-# 2️⃣ Set target board (ESP32 / ESP32-S3 / ESP32-CAM)
-# ═════════════════════════════════════════════════════════════════
+
+# Set target and build
 idf.py set-target esp32
-# ═════════════════════════════════════════════════════════════════
-# 3️⃣ Configure the project (WiFi credentials, pins, modules)
-# ═════════════════════════════════════════════════════════════════
-idf.py menuconfig
-# ════════════════════════════════════════════════════════════════
-# 4️⃣ Build the firmware
-# ════════════════════════════════════════════════════════════════
 idf.py build
-# ════════════════════════════════════════════════════════════════
-# 5️⃣ Flash to device and open serial monitor
-# ════════════════════════════════════════════════════════════════
+
+# Flash to device and monitor
 idf.py flash monitor
-# 🎉 Done! Your OpenPaw robot is alive. 🐾
 ```
 
-<hr/>
+---
 
+<!-- CONTRIBUTING -->
 ## 🤝 Contributing
+
 We're actively looking for contributors in:
+
 ```yaml
 roles_needed:
-  - 🤖 Robotics Engineers         # Mechanical & motion systems
-  - 💻 Embedded / ESP32 Devs     # Firmware & RTOS
-  - 📱 Flutter Developers         # Mobile app & UI/UX
-  - 🧠 AI / ML Engineers          # Behavior & vision models
-  - 🔌 PCB / Hardware Designers   # Circuit design
-  - 🐾 Pet Owners (Beta Testers!) # Real-world feedback
-  - 🌍 Open Source Contributors   # Docs, issues, reviews
+  - 🤖 Robotics Engineers
+  - 💻 Embedded / ESP32 Developers  
+  - 📱 Flutter Developers
+  - 🧠 AI / ML Engineers
+  - 🔌 PCB / Hardware Designers
+  - 🐾 Pet Owners (beta testers!)
+  - 🌍 Open Source Contributors
 ```
 
-### 🚀 How to Contribute
-1. 🍴 **Fork** the repository
-2. 🌿 Create a **feature branch**:
-   ```bash
-   git checkout -b feat/amazing-feature
-   ```
-3. 💾 **Commit** your changes:
-   ```bash
-   git commit -m 'feat: add amazing feature'
-   ```
-4. 📤 **Push** to branch:
-   ```bash
-   git push origin feat/amazing-feature
-   ```
-5. 🔀 Open a **Pull Request** with a clear description
+**How to contribute:**
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch: `git checkout -b feat/amazing-feature`
+3. 💾 Commit your changes: `git commit -m 'Add amazing feature'`
+4. 📤 Push to branch: `git push origin feat/amazing-feature`
+5. 🔀 Open a Pull Request
 
-<hr/>
+---
+
+ <!-- COMMUNITY -->
 
 ## 🌎 Join The OpenPaw Community
-> Follow our journey as we build the future of AI-powered pet companionship in public.
+
+<p align="center">
+Follow our journey as we build the future of AI-powered pet companionship in public.
+</p>
 
 <div align="center">
-| Platform | Link |
-|:---:|:---|
-| 𝕏 **Twitter/X** | [**@OpenPawOfficial**](https://x.com/OpenPawOfficial) — Daily build updates |
-| 🤖 **Reddit** | [**u/OpenPawAI**](https://reddit.com/user/OpenPawAI) — Community discussions |
-| ▶️ **YouTube** | [**@openpaw**](https://youtube.com/@openpaw) — Demo videos & build logs |
-| 🔗 **Linktree** | [**openpawrobot**](https://linktr.ee/openpawrobot) — All links in one place |
-| ⭐ **GitHub** | [**@openpawrobot**](https://github.com/openpawrobot) — Star & fork the repos |
+
+[![X](https://img.shields.io/badge/𝕏-Follow_OpenPaw-black?style=for-the-badge)](https://x.com/OpenPawrobot)
+
+[![Reddit](https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://reddit.com/user/OpenPawAI)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_Demos-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@openpaw)
+
+[![Linktree](https://img.shields.io/badge/🔗-All_Links-39E09B?style=for-the-badge)](https://linktr.ee/openpawrobot)
+
 </div>
 
 <p align="center">
-  <b>🐾 Development Updates &nbsp;•&nbsp; 🤖 Robotics &nbsp;•&nbsp; 🧠 AI &nbsp;•&nbsp; 🚀 Build In Public</b>
+🐾 Development Updates • 🤖 Robotics • 🧠 AI • 🚀 Build In Public
 </p>
 
-<hr/>
+---
 
-## 🗺️ Roadmap Timeline
-```
-  2024 Q4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026 Q2
-  │                                                                     │
-  ├─ Phase 1: Hardware Foundation        [████████████░░] 80%  ← YOU ARE HERE
-  │   ├─ Camera, OTA, Laser, Sensors      ✅ Complete
-  │   └─ Firmware Architecture             🔄 Active
-  │
-  ├─ Phase 2: Sensory Layer               [██████░░░░░░] 50%
-  │   ├─ Microphone + Speaker              🟡 In Progress
-  │   ├─ Motor Control                     🟡 In Progress
-  │   └─ Captive Portal                    ⏳ Planned
-  │
-  ├─ Phase 3: AI Brain                    [░░░░░░░░░░░░] 0%
-  │   ├─ Speech AI (LLM)                   ⏳ Planned
-  │   ├─ Behavior Analysis                 ⏳ Planned
-  │   └─ Wellness Intelligence             ⏳ Planned
-  │
-  ├─ Phase 4: Mobile Experience           [░░░░░░░░░░░░] 0%
-  │   └─ Flutter Mobile App                ⏳ Planned
-  │
-  └─ Phase 5: Production                  [░░░░░░░░░░░░] 0%
-      └─ Production Hardware (PCBs)        ⏳ Planned
-```
+<!-- LIVE STATS -->
+<h2 align="center">📊 Live Project Stats</h2>
 
-<hr/>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ayvalabs/openpaw-firmware?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/ayvalabs/openpaw-firmware?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/ayvalabs/openpaw-firmware" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/issues-pr/ayvalabs/openpaw-firmware" alt="GitHub Pull Requests">
+</p>
 
-## 🙏 Acknowledgements
-- **Espressif** — For the incredible ESP32 platform
-- **Open Source Community** — For every library, tool, and idea
-- **All Contributors** — 🐾 Thank you for believing in the mission
-- **Pet Owners Everywhere** — You inspire every line of code
+<p align="center">
+  <em>Stats update automatically - last refreshed: <span id="timestamp"></span></em>
+</p>
 
-<hr/>
+<!-- Add a small script to update timestamp (optional, but enhances interactivity) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayvalabs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
-## ⭐ Star History
+---
+
+<!-- FOOTER -->
 <div align="center">
-  <a href="https://star-history.com/#openpawrobot/openpaw-firmware&Date">
-    <img src="https://api.star-history.com/svg?repos=openpawrobot/openpaw-firmware&type=Date" width="80%" alt="Star History Chart"/>
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:DB2777,100:7C3AED&height=120&section=footer" width="100%"/>
+
+**🐾 Built in Public by OpenPaw • MIT License • Star ⭐ to support the mission**
+
+*Building the future of pet companionship, one commit at a time.*
+
 </div>
-
-<hr/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:DB2777,100:7C3AED&height=140&section=footer" width="100%"/>
-  ### 🐾 Built in Public by **OpenPaw**
-  **MIT License** • Made with ❤️ for pets & their humans
-  > *Building the future of pet companionship, one commit at a time.*
-  <br/>
-  <p align="center">
-    <a href="https://github.com/openpawrobot"><img src="https://img.shields.io/github/stars/openpawrobot?style=social&logo=github" alt="Stars"/></a>
-    <a href="https://github.com/openpawrobot"><img src="https://img.shields.io/github/forks/openpawrobot?style=social&logo=github" alt="Forks"/></a>
-    <a href="https://github.com/openpawrobot"><img src="https://img.shields.io/github/watchers/openpawrobot?style=social&logo=github" alt="Watchers"/></a>
-  </p>
-  <p align="center">
-    <b>⭐ Star this repo to support the mission &nbsp;•&nbsp; 🍴 Fork to build your own</b>
-  </p>
-</div>
-
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║   END OF README — Thanks for reading! 🐾                                      ║
-║   If you made it this far, consider starring the repo. It means a lot.       ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
