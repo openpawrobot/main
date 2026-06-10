@@ -1,37 +1,22 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║   🐾 OPENPAW — AI Companion Robot For Pets                                    ║
-║   100% Open Source • Built In Public • MIT License                           ║
-║   https://github.com/openpawrobot                                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-<div align="center">
-  <!-- Animated Header Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=220&section=header&text=%F0%9F%90%BE%20OpenPaw&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%20Open-Source%20AI%20Companion%20Robot%20For%20Pets&descAlignY=60&descSize=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=220&section=header&text=%F0%9F%90%BE%20OpenPaw&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%20Open-Source%20AI%20Companion%20Robot%20For%20Pets&descAlignY=60&descSize=16">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=220&section=header&text=%F0%9F%90%BE%20OpenPaw&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%20Open-Source%20AI%20Companion%20Robot%20For%20Pets&descAlignY=60&descSize=16" width="100%" alt="OpenPaw Header">
-  </picture>
-</div>
+# 🐾 OpenPaw — AI Companion Robot For Pets
+
+[![OpenPaw Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=220&section=header&text=%F0%9F%90%BE%20OpenPaw&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%20Open-Source%20AI%20Companion%20Robot%20For%20Pets&descAlignY=60&descSize=16)](https://github.com/openpawrobot)
 
 <div align="center">
-  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Companion+Robot+For+Pets;ESP32+%2B+Computer+Vision+%2B+AI;100%25+Open+Source+%7C+Built+In+Public;Making+Pet+Companionship+Smarter;Join+the+Journey+%E2%86%92+Star+%26+Fork" alt="OpenPaw Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Social Badges -->
-  <a href="https://x.com/OpenPawOfficial"><img src="https://img.shields.io/badge/%F0%9D%95%8F-Follow_OpenPaw-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow"/></a>
-  <a href="https://reddit.com/user/OpenPawAI"><img src="https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://youtube.com/@openpaw"><img src="https://img.shields.io/badge/YouTube-Watch_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://linktr.ee/openpawrobot"><img src="https://img.shields.io/badge/%F0%9F%94%97_Linktree-All_Links-39E09B?style=for-the-badge" alt="Linktree"/></a>
-  <a href="https://github.com/openpawrobot"><img src="https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/OpenPawOfficial" target="_blank"><img src="https://img.shields.io/badge/%F0%9D%95%8F-Follow_OpenPaw-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow"/></a>
+  <a href="https://reddit.com/user/OpenPawAI" target="_blank"><img src="https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://youtube.com/@openpaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://linktr.ee/openpawrobot" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%97_Linktree-All_Links-39E09B?style=for-the-badge" alt="Linktree"/></a>
+  <a href="https://github.com/openpawrobot" target="_blank"><img src="https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <div align="center">
-  <!-- Statistics Row -->
   <img src="https://img.shields.io/github/stars/openpawrobot?style=social&logo=github" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/openpawrobot?style=social&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/last-commit/openpawrobot/openpaw-firmware?style=social&logo=github" alt="Last Commit"/>
@@ -42,7 +27,7 @@
 
 ## 🚀 OpenPaw — Final Video Cut
 <div align="center">
-  <a href="https://youtu.be/kn2AgR_2DU8?si=tc3Vv8gAWHyQVW9I">
+  <a href="https://youtu.be/kn2AgR_2DU8?si=tc3Vv8gAWHyQVW9I" target="_blank">
     <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Watch_Full_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
 </div>
@@ -196,26 +181,26 @@
 
 ## 🚀 Quick Start
 ```bash
-# ════════════════════════════════════════════════════════════════════
-# 1️⃣ Clone the firmware repository
 # ═══════════════════════════════════════════════════════════════════
+# 1️⃣ Clone the firmware repository
+# ══════════════════════════════════════════════════════════════════
 git clone https://github.com/openpawrobot/openpaw-firmware
 cd openpaw-firmware
-# ═══════════════════════════════════════════════════════════════════
+# ══════════════════════════════════════════════════════════════════
 # 2️⃣ Set target board (ESP32 / ESP32-S3 / ESP32-CAM)
-# ═══════════════════════════════════════════════════════════════════
+# ═════════════════════════════════════════════════════════════════
 idf.py set-target esp32
-# ══════════════════════════════════════════════════════════════════
+# ═════════════════════════════════════════════════════════════════
 # 3️⃣ Configure the project (WiFi credentials, pins, modules)
-# ═══════════════════════════════════════════════════════════════════
+# ═════════════════════════════════════════════════════════════════
 idf.py menuconfig
-# ══════════════════════════════════════════════════════════════════
+# ════════════════════════════════════════════════════════════════
 # 4️⃣ Build the firmware
-# ══════════════════════════════════════════════════════════════════
+# ════════════════════════════════════════════════════════════════
 idf.py build
-# ═════════════════════════════════════════════════════════════════
+# ════════════════════════════════════════════════════════════════
 # 5️⃣ Flash to device and open serial monitor
-# ═════════════════════════════════════════════════════════════════
+# ════════════════════════════════════════════════════════════════
 idf.py flash monitor
 # 🎉 Done! Your OpenPaw robot is alive. 🐾
 ```
@@ -274,7 +259,7 @@ roles_needed:
 
 ## 🗺️ Roadmap Timeline
 ```
-  2024 Q4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026 Q2
+  2024 Q4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026 Q2
   │                                                                     │
   ├─ Phase 1: Hardware Foundation        [████████████░░] 80%  ← YOU ARE HERE
   │   ├─ Camera, OTA, Laser, Sensors      ✅ Complete
