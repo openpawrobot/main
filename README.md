@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/𝕏-Follow_OpenPawrobot-000000?style=for-the-badge)](https://x.com/OpenPawrobot)
+[![X](https://img.shields.io/badge/𝕏-Follow_OpenPawrobot-000000?style=for-the-badge)](https://x.com/OpenPawOfficial)
 [![Reddit](https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/OpenPawAI)
 [![Linktree](https://img.shields.io/badge/🔗_Linktree-All_Links-39E09B?style=for-the-badge)](https://linktr.ee/openpawrobot)
 [![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github)](https://github.com/openpawrobot)
@@ -257,7 +257,7 @@ Follow our journey as we build the future of AI-powered pet companionship in pub
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/𝕏-Follow_OpenPaw-black?style=for-the-badge)](https://x.com/OpenPawrobot)
+[![X](https://img.shields.io/badge/𝕏-Follow_OpenPaw-black?style=for-the-badge)](https://x.com/OpenPawOfficial)
 
 [![Reddit](https://img.shields.io/badge/Reddit-Join_Community-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://reddit.com/user/OpenPawAI)
 
