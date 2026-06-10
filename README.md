@@ -44,93 +44,111 @@
 ---
 
 <!-- WHY OPENPAW -->
-## ❤️ Why OpenPaw Exists
+<h2 align="center">❤️ Why OpenPaw Exists</h2>
 
+<p align="center">
+Millions of pets spend hours alone every day.<br>
+Most pet cameras only allow owners to watch.<br>
+<strong>OpenPaw is different.</strong>
+</p>
 ```
-Millions of pets spend hours alone every day.
-Most pet cameras only allow owners to watch.
-OpenPaw is different.
-```
 
-| What Most Pet Tech Does | What OpenPaw Does |
-|:---|:---|
-| 👁️ Passive camera feed | 🤖 Active AI interaction |
-| 💰 Expensive proprietary | 🆓 Free & Open Source |
-| 📵 Watch only | 🎾 Play, engage & monitor |
-| 🔒 Closed ecosystem | 🌍 Community driven |
-| 🚫 No wellness data | ❤️ Health + behavior insights |
-
----
-
-<!-- BUILD STATUS -->
-## 🚧 Current Development Status
-
-<div align="center">
-
-| Feature | Status | Phase |
-|:---|:---:|:---:|
-| 📷 Camera System | ✅ Complete | Phase 1 |
-| 🔄 OTA Firmware Updates | ✅ Complete | Phase 1 |
-| 📡 Distance Sensor | ✅ Complete | Phase 1 |
-| 🔴 Laser Module | ✅ Complete | Phase 1 |
-| 🏗️ Firmware Architecture | 🔄 Active | Phase 1 |
-| 🎤 Microphone Integration | 🟡 In Progress | Phase 2 |
-| 🔊 Speaker System | 🟡 In Progress | Phase 2 |
-| 🌡️ Temperature Sensor | 🟡 In Progress | Phase 2 |
-| ⚙️ Motor Control | 🟡 In Progress | Phase 2 |
-| 🌐 Captive Portal | ⏳ Planned | Phase 2 |
-| 🗣️ Speech AI | ⏳ Planned | Phase 3 |
-| 🧠 Behavior Analysis | ⏳ Planned | Phase 3 |
-| 📊 Wellness Intelligence | ⏳ Planned | Phase 3 |
-| 📱 Flutter Mobile App | ⏳ Planned | Phase 4 |
-| 🚀 Production Hardware | ⏳ Planned | Phase 5 |
+| Traditional Pet Tech          | OpenPaw                           |
+| :---------------------------- | :-------------------------------- |
+| 👁️ Passive camera monitoring | 🤖 AI-powered interaction         |
+| 💰 Proprietary ecosystems     | 🌍 Open-source platform           |
+| 📵 Observation only           | 🎾 Engagement & play              |
+| 🔒 Closed development         | 🤝 Community-driven innovation    |
+| 🚫 Limited insights           | ❤️ Wellness & behavior monitoring |
+| 🏠 Device-focused             | 🐾 Pet-focused experience         |
 
 </div>
 
 ---
 
+
+<!-- DEVELOPMENT PROGRESS -->
+
+## 🚀 Development Progress
+
+<div align="center">
+
+| Capability                   |         Status        |
+| :--------------------------- | :-------------------: |
+| 📷 Camera Streaming          |       ✅ Complete      |
+| 🔄 OTA Firmware Updates      |       ✅ Complete      |
+| 📡 Distance Sensing          |       ✅ Complete      |
+| 🔴 Interactive Laser Module  |       ✅ Complete      |
+| 🏗️ Core Firmware Foundation | 🔄 Active Development |
+| 🎤 Audio Input System        |     🟡 In Progress    |
+| 🔊 Audio Output System       |     🟡 In Progress    |
+| 🌡️ Environmental Monitoring |     🟡 In Progress    |
+| ⚙️ Motion & Mobility Systems |     🟡 In Progress    |
+| 🌐 Device Onboarding & Setup |       ⏳ Planned       |
+| 🗣️ Voice Interaction        |       ⏳ Planned       |
+| 🧠 Behavior Intelligence     |       ⏳ Planned       |
+| ❤️ Wellness Insights         |       ⏳ Planned       |
+| 📱 Mobile Application        |       ⏳ Planned       |
+| ☁️ Cloud Connectivity        |       ⏳ Planned       |
+| 🚀 Production Hardware       |        ⏳ Future       |
+
+</div>
+
+<p align="center">
+<b>Current Focus:</b> Firmware Architecture, Audio Systems, Sensor Integration, and Mobility Development
+</p>
+
+---
+
+### Status Legend
+
+* ✅ Complete
+* 🔄 Active Development
+* 🟡 In Progress
+* ⏳ Planned
+* 🚀 Future
+
+---
+
 ## 🏗️ OpenPaw System Architecture
 
-```text
-┌───────────────────────────────────────────────┐
-│                   🐾 OpenPaw                   │
-│          AI Companion Robot For Pets          │
-└───────────────────────────────────────────────┘
-                        │
-                        ▼
+```mermaid
+flowchart TD
 
-┌───────────────────────────────────────────────┐
-│                ⚡ Core Firmware                │
-│                     ESP32                     │
-└───────────────────────────────────────────────┘
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-        ▼               ▼               ▼
+    A[🐾 OpenPaw<br>AI Companion Robot For Pets]
+    B[⚡ ESP32 Core Firmware]
 
-┌─────────────┐ ┌─────────────┐ ┌─────────────┐
-│ 📡 Sensors  │ │ 🧠 AI Layer │ │ 🌐 Services │
-└─────────────┘ └─────────────┘ └─────────────┘
+    A --> B
 
-│ 📷 Camera   │ │ 👁️ Vision   │ │ 📡 OTA      │
-│ 📏 Distance │ │ 🐾 Behavior │ │ ☁️ Cloud    │
-│ 🌡️ Temp     │ │ ❤️ Wellness │ │ 🔗 APIs     │
-│ 🎤 Mic      │ │ 🗣️ Speech   │ │ 🌍 Web      │
-│ 🔊 Speaker  │ │ 🤖 LLMs     │ │ 📱 Mobile   │
-│ ⚙️ Motors   │ └─────────────┘ └─────────────┘
+    B --> C[📡 Sensor Layer]
+    B --> D[🧠 AI Layer]
+    B --> E[🌐 Services]
 
-        └───────────────┬───────────────┘
-                        │
-                        ▼
+    C --> C1[Camera]
+    C --> C2[Distance Sensor]
+    C --> C3[Temperature]
+    C --> C4[Microphone]
+    C --> C5[Speaker]
+    C --> C6[Motors]
 
-┌───────────────────────────────────────────────┐
-│            🎯 Companion Experience            │
-│                                               │
-│  🐾 Engagement  •  ❤️ Wellness Monitoring     │
-│  📱 Remote Access • 🤖 AI Interaction         │
-└───────────────────────────────────────────────┘
+    D --> D1[Vision]
+    D --> D2[Behavior Analysis]
+    D --> D3[Wellness]
+    D --> D4[Speech AI]
+    D --> D5[LLM Services]
+
+    E --> E1[OTA Updates]
+    E --> E2[Cloud Sync]
+    E --> E3[APIs]
+    E --> E4[Mobile App]
+    E --> E5[Web Portal]
+
+    F[🎯 Companion Experience]
+
+    C --> F
+    D --> F
+    E --> F
 ```
-
 
 <!-- TECH STACK -->
 ## 💻 Technology Stack
